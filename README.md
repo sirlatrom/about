@@ -53,3 +53,4 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Shawn Bower** - [@drizzt51](https://twitter.com/drizzt51) - [Blog](https://medium.com/@shawn.bower)
   - **Adrian Mouat** - [@adrianmouat](https://twitter.com/adrianmouat) - [Blog](https://container-solutions.com/author/adrianm/)
   - **Nicolas De Loof** - [@ndeloof](https://twitter.com/ndeloof) - [Blog](http://blog.loof.fr)
+  - **Sune Keller** - [@sirlatrom](https://twitter.com/sirlatrom) - [Blog](https://blog.sunekeller.dk)
